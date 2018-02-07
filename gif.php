@@ -1,7 +1,7 @@
 <?php
 
 	//Leave all this stuff as it is
-	date_default_timezone_set('Europe/London');
+	date_default_timezone_set('America/Costa_Rica');
 	include 'GIFEncoder.class.php';
 	include 'php52-fix.php';
 	$time = $_GET['time'];
